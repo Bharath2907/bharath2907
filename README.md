@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath2907" alt="bharath2907" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
+- 🌱 I have experience learning java **Java**
 
 - 🤝 I’m looking for help with **computer programming stuff**
 
