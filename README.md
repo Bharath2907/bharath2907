@@ -6,13 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath2907" alt="bharath2907" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
-- 🌱 I have experience learning java **Java**
+- 🌱 I have experience learning **Java**
 
 - 🤝 I’m looking for help with **computer programming stuff**
+- or maybe could collab working on a programming things
 
 - 📫 How to reach me **bharathraj@graduate.utm.my**
 
-- ⚡ Fun fact **I am ambivert**
+- ⚡ Fun fact **effective communication,adaptability,problem-solving skills,time management,teamwork,leadership, are some of my qualities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
