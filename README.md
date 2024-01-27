@@ -32,6 +32,11 @@
 * I have a passion for photography and enjoy capturing beautiful moments and landscapes.
 **effective communication,adaptability,problem-solving skills,time management,teamwork,leadership, are some of my qualities**
 
+  ##  Academic Source 🧑‍🎓
+#Assignment📝
+
+-Technology and Information System -> [Link to TIS ](https://github.com/dheshieghan227/Technology-and-Information-System)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bharath.04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharath.04_" height="30" width="40" /></a>
