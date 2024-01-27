@@ -35,7 +35,7 @@
   ##  Academic Source 🧑‍🎓
 #Assignment📝
 
--Technology and Information System -> [Link to TIS ](https://github.com/dheshieghan227/Technology-and-Information-System)
+-Technology and Information System -> [Link to TIS ](https://github.com/Bharath2907/eportfolio/tree/127444d23bc1efce2929aaf7a72bd05252ac293c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
