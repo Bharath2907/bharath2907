@@ -4,6 +4,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath2907&label=Profile%20views&color=0e75b6&style=flat" alt="bharath2907" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath2907" alt="bharath2907" /></a> </p>
+### :man_technologist: About Me :
+
+- 📆 29/07/2004
+- 🏫 Studying at University Technology Malaysia
+- 📝 Learning to be the best upcoming security engineer
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+|Home🏡:| Kluang,Johor |
+|--------|--------|
+| Academic Career📖: |<p>High School :<pre>SMK Tinggi Kluang</p></pre><p>College :<pre> Kolej Matrikulasi Johor </pre></p> <p>University :<pre> University Technology Malaysia </pre>|
+| Cerificates📚: |<p>SMK USJ 12 :<pre>SPM 9A</p></pre><p>Kolej Matrikulasi Johor:<pre>PNGK 3.96</pre></p><p>Muet:<pre>4.00</pre>|
+| Sports🏅:|<pre>⚽Football </p> </pre><p><pre>🏸Badminton </p>|
+| Hobbies☕: |<pre>Playing Music Instruments</p></pre><p><pre>Binge watching movies/tv shows🖥️<pre>|
 
 - 🌱 I’m currently learning **C++**
 - 🌱 I have experience learning **Java**
@@ -13,7 +26,11 @@
 
 - 📫 How to reach me **bharathraj@graduate.utm.my**
 
-- ⚡ Fun fact **effective communication,adaptability,problem-solving skills,time management,teamwork,leadership, are some of my qualities**
+- ⚡ Fun fact
+* I'm a big fan of spicy food and can handle some of the hottest dishes out there.
+* I'm a coffee enthusiast and love trying new blends and brewing methods.
+* I have a passion for photography and enjoy capturing beautiful moments and landscapes.
+**effective communication,adaptability,problem-solving skills,time management,teamwork,leadership, are some of my qualities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
